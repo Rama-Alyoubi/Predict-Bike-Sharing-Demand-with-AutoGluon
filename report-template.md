@@ -31,15 +31,12 @@ If I had more time with this dataset, I would focus on expanding feature enginee
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score](https://github.com/Rama-Alyoubi/Predict-Bike-Sharing-Demand-with-AutoGluon/assets/128150728/e4bb964d-c96b-4ac2-8fbd-353db701ffc0)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
-
-![model_test_score.png](img/model_test_score.png)
+![model_test_score](https://github.com/Rama-Alyoubi/Predict-Bike-Sharing-Demand-with-AutoGluon/assets/128150728/9cc0f808-e5a5-4381-9f21-20b5db947bee)
 
 ## Summary
-TODO: Add your explanation
+This project showed how well AutoGluon can predict bike sharing demand. By analyzing the data carefully, creating new features, and adjusting model settings, I was able to make much better predictions. This experience really shows how powerful machine learning can be for real-world problems. I'm also happy to have completed my first project with the Udacity Machine Learning Fundamentals nanodegree, which helped me learn a lot about improving models.
