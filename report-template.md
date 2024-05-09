@@ -1,12 +1,12 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### NAME HERE
+Rama Alyoubi
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
 TODO: Add your explanation
 
 ### What was the top ranked model that performed?
-TODO: Add your explanation
+
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
@@ -25,9 +25,9 @@ TODO: Add your explanation
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
 |--|--|--|--|--|
-|initial|?|?|?|?|
-|add_features|?|?|?|?|
-|hpo|?|?|?|?|
+|initial|default|default|default|1.80541|
+|add_features|default|default|default|0.62215|
+|hpo|'RF': {'n_estimators': 300}|GBM': {'num_boost_round': 100}|GBM': {'num_boost_round': 200}|0.47943|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
